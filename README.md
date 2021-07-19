@@ -30,7 +30,10 @@ Working at [Connectus Global](https://connectusglobal.com) as a Full-Stack Devel
 <br />
 
 ## Skills 💻
-
+#### Frontend
+![](https://img.shields.io/badge/-React-222?logo=react)
+![](https://img.shields.io/badge/-Express-222?logo=express)
+![](https://img.shields.io/badge/-MongoDB-222?logo=mongodb)
 
 
 
