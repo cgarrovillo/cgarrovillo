@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/cgarrovillo/cgarrovillo?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://github.com/cgarrovillo)
+[![Visits Badge](https://badges.pufler.dev/visits/cgarrovillo/cgarrovillo?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/cgarrovillo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-2A67BC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cgarrovillo/)
 [![Website Badge](https://img.shields.io/badge/Website-.dev-%23181FCA?style=for-the-badge)](https://cgarrovillo.dev)
 
@@ -16,7 +16,7 @@ Working at [Connectus Global](https://connectusglobal.com) as a Full-Stack Devel
 ### 🌳 But when I'm bored I...
  - Am working on a platform for car-people. Soon!
  - Am working on a platform for retail workers to get your email without a single "huh?". Soon!
- - Try to support an [open-source project](https://www.reddit.com/r/canadahousing/comments/ohpwna/has_someone_written_an_extensive_book_on_the/) related to Canada's Housing Market.
+ - Try to support an open-source project related to Canada's Housing Market.
  - Think about starting yet another side-project and forgetting the others
 
 <h2></h2>
@@ -27,14 +27,25 @@ Working at [Connectus Global](https://connectusglobal.com) as a Full-Stack Devel
  - Joined a wonderful team helping non-profits with free software development from student volunteers via [codethechangeyyc](https://codethechangeyyc.ca)
 
 <br />
-
-<h2></h2> 
-
 <br />
 
+## Skills 💻
+
+
+
+
+
+## My Github life 👨🏻‍💻 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarrovillo&layout=compact&hide=java)](https://github.com/cgarrovillo)
 
+<br/>
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgarrovillo&repo=scanme)](https://github.com/cgarrovillo/scanme)
+<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgarrovillo&repo=foodlyapp)](https://github.com/cgarrovillo/foodlyapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgarrovillo&repo=streetparkingyyc)](https://github.com/cgarrovillo/streetparkingyyc)
+
+
 
 
 <!--
