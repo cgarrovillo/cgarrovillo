@@ -1,4 +1,5 @@
-[![Visits Badge](https://badges.pufler.dev/visits/cgarrovillo/cgarrovillo?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/cgarrovillo)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/cgarrovillo/cgarrovillo?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/cgarrovillo) -->
+[![Visits Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=cgarrovillo-cgarrovillo&style=for-the-badge&color=green&text=Visits&logo=statuspage&cache=on)](https://github.com/cgarrovillo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-2A67BC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cgarrovillo/)
 [![Website Badge](https://img.shields.io/badge/Website-.dev-%23181FCA?style=for-the-badge)](https://cgarrovillo.dev)
 
