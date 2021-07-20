@@ -67,7 +67,7 @@ Working at [Connectus Global](https://connectusglobal.com) as a Full-Stack Devel
 
 
 ## My Github life 👨🏻‍💻 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarrovillo&layout=compact&hide=java)](https://github.com/cgarrovillo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarrovillo&layout=compact&hide=java&title_color=222)](https://github.com/cgarrovillo)
 
 <br/>
  
