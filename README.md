@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/cgarrovillo/cgarrovillo?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/cgarrovillo)
+[![Visits Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=cgarrovillo.cgarrovillo&style=for-the-badge&color=green&text=Visits&logo=statuspage)](https://github.com/cgarrovillo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-2A67BC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cgarrovillo/)
 [![Website Badge](https://img.shields.io/badge/Website-.dev-%23181FCA?style=for-the-badge)](https://cgarrovillo.dev)
 
@@ -31,9 +31,37 @@ Working at [Connectus Global](https://connectusglobal.com) as a Full-Stack Devel
 
 ## Skills 💻
 #### Frontend
-![](https://img.shields.io/badge/-React-222?logo=react)
+![](https://img.shields.io/badge/-React-222?logo=react&style=for-the-badge)
+![](https://img.shields.io/badge/-Redux-222?logo=redux)
+![](https://img.shields.io/badge/-Sass-222?logo=sass)
+![](https://img.shields.io/badge/-HTML-222?logo=html5)
+![](https://img.shields.io/badge/-JS-222?logo=javascript)
+![](https://img.shields.io/badge/-JavaFX-222?logo=java)
+
+#### Backend
 ![](https://img.shields.io/badge/-Express-222?logo=express)
+![](https://img.shields.io/badge/-Koa-222?logo=express)
+![](https://img.shields.io/badge/-Java-222?logo=java)
+![](https://img.shields.io/badge/-Python-222?logo=python)
+
+#### Database
 ![](https://img.shields.io/badge/-MongoDB-222?logo=mongodb)
+![](https://img.shields.io/badge/-MySQL-222?logo=mysql)
+![](https://img.shields.io/badge/-Oracle%20Database-222?logo=oracle)
+
+#### DevOps
+![](https://img.shields.io/badge/-AWS-222?logo=amazonaws)
+![](https://img.shields.io/badge/-GCP-222?logo=googlecloud)
+![](https://img.shields.io/badge/-Firebase-222?logo=firebase)
+![](https://img.shields.io/badge/-Docker-222?logo=docker)
+
+#### Tools
+![](https://img.shields.io/badge/-Git-222?logo=git)
+![](https://img.shields.io/badge/-Jira-222?logo=jira)
+![](https://img.shields.io/badge/-Postman-222?logo=postman)
+![](https://img.shields.io/badge/-NPM-222?logo=npm)
+![](https://img.shields.io/badge/-Yarn-222?logo=yarn)
+![](https://img.shields.io/badge/-Figma-222?logo=figma)
 
 
 
