@@ -15,8 +15,8 @@ Working at [Connectus Global](https://connectusglobal.com) as a Full-Stack Devel
 <h2></h2>
 
 ### 🌳 But when I'm bored I...
- - Am working on a platform for car-people. Soon!
- - Am working on a platform for retail workers to get your email without a single "huh?". Soon!
+ - Am working on a platform for car-people.
+ - Am working on a platform for retail workers to get your email without a single "huh?".
  - Try to support an [open-source project](https://www.reddit.com/r/canadahousing/comments/ohpwna/has_someone_written_an_extensive_book_on_the/) related to Canada's Housing Market.
  - Think about starting yet another side-project and forgetting the others
 
