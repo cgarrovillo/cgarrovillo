@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-I'm Christian, a full-stack developer, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a good eye for design. I try to put my best efforts into my work, even if it's just a "side-project" in the off-chance it unicorns 🚀👀.  If you'd like to learn more about those projects, checkout my [website](https://christiang.dev).
+I'm Christian, a full-stack developer, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a (also self-proclaimed) good eye for design. I try to put my best efforts into my work, even if it's just a "side-project" in the off-chance it unicorns 🚀👀.  If you'd like to learn more about those projects, checkout my [website](https://christiang.dev).
 
 <h2></h2>
 
