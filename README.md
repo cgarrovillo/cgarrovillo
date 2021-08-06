@@ -15,12 +15,14 @@ Working at [Connectus Global](https://connectusglobal.com) as a Full-Stack Devel
 <h2></h2>
 
 ### 🌳 But when I'm bored I...
- - Am working on a platform for car-enthusiasts to connect.
- - Am working on a platform for friends to more easily share paid services.
- - Am working on a platform for retail workers to get your email without a single "huh?" in the process.
- - Try to support an [open-source project](https://www.reddit.com/r/canadahousing/comments/ohpwna/has_someone_written_an_extensive_book_on_the/) related to Canada's Housing Market.
- - [Think about starting yet another side-project and forgetting the others](https://user-images.githubusercontent.com/6688713/126884834-8b3bbf96-5e90-4207-8eb3-ecf07c91a291.png)
 
+**These projects are on hold due to a more important task. 😁** 
+
+ - ~~Am working on a platform for car-enthusiasts to connect~~
+ - ~~Am working on a platform for friends to more easily share paid services.~~
+ - ~~Am working on a platform for retail workers to get your email without a single "huh?" in the process.~~
+ - ~~Try to support an [open-source project](https://www.reddit.com/r/canadahousing/comments/ohpwna/has_someone_written_an_extensive_book_on_the/) related to Canada's Housing Market.~~
+ - [Think about starting yet another side-project and forgetting the others](https://user-images.githubusercontent.com/6688713``/126884834-8b3bbf96-5e90-4207-8eb3-ecf07c91a291.png)
 
 <h2></h2>
 
