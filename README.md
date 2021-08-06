@@ -16,7 +16,7 @@ Working at [Connectus Global](https://connectusglobal.com) as a Full-Stack Devel
 
 ### 🌳 But when I'm bored I...
 
-**These projects are on hold due to a more important task. 😁** 
+**These projects are on hold due to a more important task I'm working hard on. 😁🤫** 
 
  - ~~Am working on a platform for car-enthusiasts to connect~~
  - ~~Am working on a platform for friends to more easily share paid services.~~
