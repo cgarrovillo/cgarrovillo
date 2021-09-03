@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-I'm Christian, a full-stack developer, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a (also self-proclaimed) good eye for design. I try to put my best efforts into my work, even if it's just a "side-project" in the off-chance it unicorns 🚀👀.  If you'd like to learn more about those projects, checkout my [website](https://christiang.dev).
+I'm Christian, a full-stack developer, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a (also self-proclaimed) good eye for design. I try to put my best efforts into my work, even if it's just a "side-project" in the off-chance it unicorns 🚀👀.  If you'd like to learn more about those projects, checkout my [website](https://cgarrovillo.dev).
 
 <h2></h2>
 
@@ -18,10 +18,10 @@ Working at [Connectus Global](https://connectusglobal.com) as a Full-Stack Devel
 
 **Normally work on these but these are on hold due to a more important task I'm working hard on. 😁🤫** 
 
- - ~~Am working on a platform for car-enthusiasts to connect~~
- - ~~Am working on a platform for friends to more easily share paid services.~~
- - ~~Am working on a platform for retail workers to get your email without a single "huh?" in the process.~~
- - ~~Try to support an [open-source project](https://www.reddit.com/r/canadahousing/comments/ohpwna/has_someone_written_an_extensive_book_on_the/) related to Canada's Housing Market.~~
+ - Am working on a platform for managing your car maintenance much better.
+ - Am working on a platform for friends to more easily share paid services.
+ - Am working on a platform for retail workers to get your email without a single "huh?" in the process.
+ - Try to support an [open-source project](https://www.reddit.com/r/canadahousing/comments/ohpwna/has_someone_written_an_extensive_book_on_the/) related to Canada's Housing Market.
  - [Think about starting yet another side-project and forgetting the others](https://user-images.githubusercontent.com/6688713/126884834-8b3bbf96-5e90-4207-8eb3-ecf07c91a291.png)
 
 <h2></h2>
