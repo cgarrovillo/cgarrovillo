@@ -26,8 +26,8 @@ Re-inventing the way we look at lawyers through [Goodlawyer](https://goodlawyer.
 <h2></h2>
 
 ### 🏛 And In the past I've...
- - Re-architected a WebSocket system inside a React app for much better Real-Time Location System performance and DX via [Connectus Global](https://connectusglobal.com)
- - Done bug-fixes during night-shifts to match Singapore Standard Time via [Connectus Global](https://connectusglobal.com) 🤦‍♂️
+ - Re-architected a WebSocket system inside a React app for much better Real-Time Location System performance and DX via [Connectus Global](https://comectusglobal.com)
+ - Done bug-fixes during night-shifts to match Singapore Standard Time via [Connectus Global](https://comectusglobal.com) 🤦‍♂️
  - Worked on a COVID health screening checkup platform for daycares & gyms via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
  - Worked on a backend API for a "SkipTheDishes" for food trucks, concessions, golf houses via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
  - Joined a wonderful team helping non-profits with free software development from student volunteers via [codethechangeyyc](https://codethechangeyyc.ca)
