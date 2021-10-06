@@ -14,9 +14,7 @@ Re-inventing the way we look at lawyers through [Goodlawyer](https://goodlawyer.
 
 <h2></h2>
 
-### 🌳 But when I'm bored I...
-
-**Normally work on these but these are on hold due to a more important task I'm working hard on. 😁🤫** 
+### 🌳 But if and when I have freetime I...
 
  - Am working on a platform for managing your car maintenance much better.
  - Am working on a platform for friends to more easily share paid services.
