@@ -10,7 +10,7 @@ I'm Christian, a full-stack developer, ReactJS fan, tech-guy, car-guy, with a se
 <h2></h2>
 
 ### ☕️ My day-to-day right now is...
-Working at [Connectus Global](https://connectusglobal.com) as a Full-Stack Developer.
+Re-inventing the way we look at lawyers through [Goodlawyer](https://goodlawyer.ca) as a Full-Stack Developer.
 
 <h2></h2>
 
@@ -26,6 +26,8 @@ Working at [Connectus Global](https://connectusglobal.com) as a Full-Stack Devel
 <h2></h2>
 
 ### 🏛 And In the past I've...
+ - Re-architected a WebSocket system inside a React app for much better Real-Time Location System performance and DX via [Connectus Global](https://connectusglobal.com)
+ - Done bug-fixes during night-shifts to match Singapore Standard Time via [Connectus Global](https://connectusglobal.com) 🤦‍♂️
  - Worked on a COVID health screening checkup platform for daycares & gyms via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
  - Worked on a backend API for a "SkipTheDishes" for food trucks, concessions, golf houses via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
  - Joined a wonderful team helping non-profits with free software development from student volunteers via [codethechangeyyc](https://codethechangeyyc.ca)
