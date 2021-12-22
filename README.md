@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 
-I'm Christian, a full-stack developer, TypeScript advocate, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a (also self-proclaimed) good eye for design. I try to put my best efforts into my work, even if it's just a "side-project" in the off-chance it unicorns 🚀👀.  If you'd like to learn more about those projects, checkout my [website](https://cgarrovillo.dev).
+I'm Christian, a full-stack developer, TypeScript advocate, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a (also self-proclaimed) good eye for design. I try to put my best efforts into my work, even if it's just a "side-project" in the off-chance it unicorns 🚀👀.  If you'd like to learn a little bit more about those projects, checkout my [website](https://cgarrovillo.dev).
 
 <h2></h2>
 
@@ -39,7 +39,6 @@ Re-inventing the way we look at lawyers through [Goodlawyer](https://goodlawyer.
 ![](https://img.shields.io/badge/-Sass-222?logo=sass&style=for-the-badge)
 ![](https://img.shields.io/badge/-HTML-222?logo=html5&style=for-the-badge)
 ![](https://img.shields.io/badge/-JS-222?logo=javascript&style=for-the-badge)
-![](https://img.shields.io/badge/-JavaFX-222?logo=java&style=for-the-badge)
 
 #### Backend
 ![](https://img.shields.io/badge/-Express-222?logo=express&style=for-the-badge)
@@ -67,18 +66,9 @@ Re-inventing the way we look at lawyers through [Goodlawyer](https://goodlawyer.
 ![](https://img.shields.io/badge/-Figma-222?logo=figma&style=for-the-badge)
 
 
+<br/>
 
-
-## My Github life 👨🏻‍💻 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarrovillo&layout=compact&hide=java&title_color=222)](https://github.com/cgarrovillo)
-
-<br/>
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgarrovillo&repo=scanme)](https://github.com/cgarrovillo/scanme)
-<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgarrovillo&repo=foodlyapp)](https://github.com/cgarrovillo/foodlyapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cgarrovillo&repo=streetparkingyyc)](https://github.com/cgarrovillo/streetparkingyyc)
-
 
 
 
