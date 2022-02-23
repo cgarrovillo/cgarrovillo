@@ -1,11 +1,10 @@
-[![Visits Badge](https://badges.pufler.dev/visits/cgarrovillo/cgarrovillo?style=for-the-badge&logo=statuspage&logoColor=white&label=Visitors)](https://github.com/cgarrovillo)
+# cgarrovillo
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/cgarrovillo/cgarrovillo?style=for-the-badge&logo=statuspage&logoColor=white&label=Visitors)](https://github.com/cgarrovillo) -->
 <!-- [![Visits Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=cgarrovillo-cgarrovillo&style=for-the-badge&color=green&text=Visits&logo=statuspage&cache=on)](https://github.com/cgarrovillo) -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-2A67BC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cgarrovillo/)
 [![Website Badge](https://img.shields.io/badge/Website-.dev-%23181FCA?style=for-the-badge)](https://cgarrovillo.dev?click=github)
 
-## Hi there 👋
-
-I'm Christian, a full-stack developer, TypeScript advocate, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a (also self-proclaimed) good eye for design. I try to put my best efforts into my work, even if it's just a "side-project" in the off-chance it unicorns 🚀👀.  If you'd like to learn a little bit more about those projects, checkout my [website](https://cgarrovillo.dev).
+I'm Christian, a full-stack developer, TypeScript advocate, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a (also self-proclaimed) good eye for design. I try to put my best efforts into my work including my side-projects, as it makes working on production scale projects much easier.  If you'd like to learn a little bit more about those projects, checkout my [website](https://cgarrovillo.dev).
 
 <h2></h2>
 
