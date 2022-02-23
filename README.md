@@ -4,12 +4,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-2A67BC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cgarrovillo/)
 [![Website Badge](https://img.shields.io/badge/Website-.dev-%23181FCA?style=for-the-badge)](https://cgarrovillo.dev?click=github)
 
-I'm Christian, a full-stack developer, TypeScript advocate, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a (also self-proclaimed) good eye for design. I try to put my best efforts into my work including my side-projects, as it makes working on production scale projects much easier.  If you'd like to learn a little bit more about those projects, checkout my [website](https://cgarrovillo.dev).
+I'm Christian, a full-stack developer, TypeScript advocate, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a (also self-proclaimed) good eye for design. I try to put my best efforts into my work including my side-projects, as it makes working on production scale projects much easier. 👌  If you'd like to learn a little bit more about those projects, checkout my [website](https://cgarrovillo.dev).
 
 <h2></h2>
 
 ### ☕️ My day-to-day right now is...
-Re-inventing the way we look at lawyers through [Goodlawyer](https://goodlawyer.ca) as a Full-Stack Developer.
+Helping businesses succeed through [Goodlawyer](https://goodlawyer.ca) as a Full-Stack Developer.
 
 <h2></h2>
 
