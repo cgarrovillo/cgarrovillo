@@ -25,7 +25,7 @@ Helping businesses succeed through [Goodlawyer](https://goodlawyer.ca) as a Full
 ### 🏛 And In the past I've...
  - Re-architected a WebSocket system inside a React app for much better Real-Time Location System performance and DX via [Connectus Global](https://comectusglobal.com)
  - Worked on a COVID health screening checkup platform for daycares & gyms via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
- - Worked on a backend API for a "SkipTheDishes" for food trucks, concessions, golf houses via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
+ - Worked on a small "SkipTheDishes" inspired SMS-based app for food trucks, concessions, golf houses via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
  - Joined a wonderful team helping non-profits with free software development from student volunteers via [codethechangeyyc](https://codethechangeyyc.ca)
 
 <br />
@@ -68,20 +68,3 @@ Helping businesses succeed through [Goodlawyer](https://goodlawyer.ca) as a Full
 <br/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarrovillo&layout=compact&hide=java&title_color=222&exclude_repo=Owls)](https://github.com/cgarrovillo) -->
-
-
-
-<!--
-**cgarrovillo/cgarrovillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
