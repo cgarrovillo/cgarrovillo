@@ -67,7 +67,7 @@ Re-inventing the way we look at lawyers through [Goodlawyer](https://goodlawyer.
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarrovillo&layout=compact&hide=java&title_color=222&exclude_repo=Owls)](https://github.com/cgarrovillo)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarrovillo&layout=compact&hide=java&title_color=222&exclude_repo=Owls)](https://github.com/cgarrovillo) -->
 
 
 
