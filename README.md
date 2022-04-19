@@ -28,6 +28,7 @@ Helping businesses succeed through [Goodlawyer](https://goodlawyer.ca) as a Full
  - Worked on a small "SkipTheDishes" inspired SMS-based app for food trucks, concessions, golf houses via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
  - Joined a wonderful team helping non-profits with free software development from student volunteers via [codethechangeyyc](https://codethechangeyyc.ca)
 
+<!-- 
 <br />
 <br />
 
@@ -62,9 +63,10 @@ Helping businesses succeed through [Goodlawyer](https://goodlawyer.ca) as a Full
 ![](https://img.shields.io/badge/-Postman-222?logo=postman&style=for-the-badge)
 ![](https://img.shields.io/badge/-NPM-222?logo=npm&style=for-the-badge)
 ![](https://img.shields.io/badge/-Yarn-222?logo=yarn&style=for-the-badge)
-![](https://img.shields.io/badge/-Figma-222?logo=figma&style=for-the-badge)
+![](https://img.shields.io/badge/-Figma-222?logo=figma&style=for-the-badge) 
 
 
 <br/>
+-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgarrovillo&layout=compact&hide=java&title_color=222&exclude_repo=Owls)](https://github.com/cgarrovillo) -->
