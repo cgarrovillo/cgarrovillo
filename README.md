@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-2A67BC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cgarrovillo/)
 [![Website Badge](https://img.shields.io/badge/Website-.dev-%23181FCA?style=for-the-badge)](https://cgarrovillo.dev?click=github)
 
-I'm Christian, a full-stack developer, TypeScript advocate, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a (also self-proclaimed) good eye for design. I try to put my best efforts into my work including my side-projects, as it makes working on production scale projects much easier. 👌  If you'd like to learn a little bit more about those projects, checkout my [website](https://cgarrovillo.dev).
+I'm Christian, a full-stack developer, TypeScript advocate, ReactJS fan, tech-guy, car-guy, with a self-proclaimed entrepreneurial mindset and a (also self-proclaimed) good eye for design. I try to put my best efforts into my work including my side-projects, as it makes working on production scale projects much easier 🤙.  If you'd like to learn a little bit more about those projects, checkout my [website](https://cgarrovillo.dev).
 
 <h2></h2>
 
@@ -13,7 +13,7 @@ Helping businesses succeed through [Goodlawyer](https://goodlawyer.ca) as a Full
 
 <h2></h2>
 
-### 🌳 But if and when I have freetime I...
+### 🌳 But when I have freetime I...
 
  - Am working on a platform for managing your car maintenance much better.
  - Am working on a platform for friends to more easily share paid services.
