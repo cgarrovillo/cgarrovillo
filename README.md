@@ -15,10 +15,10 @@ Helping businesses succeed through [Goodlawyer](https://goodlawyer.ca) as a Full
 
 ### 🌳 But when I have freetime I...
 
+ - [Think about starting yet another side-project and forgetting the others](https://user-images.githubusercontent.com/6688713/126884834-8b3bbf96-5e90-4207-8eb3-ecf07c91a291.png)
  - Am working on a platform for managing your car maintenance much better.
  - Am working on a platform for friends to more easily share paid services.
  - Am working on a platform for retail workers to get your email without a single "huh?" in the process.
- - [Think about starting yet another side-project and forgetting the others](https://user-images.githubusercontent.com/6688713/126884834-8b3bbf96-5e90-4207-8eb3-ecf07c91a291.png)
 
 <h2></h2>
 
