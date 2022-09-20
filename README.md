@@ -9,7 +9,7 @@ I'm Christian, a full-stack developer, TypeScript advocate, ReactJS fan, tech-gu
 <h2></h2>
 
 ### ☕️ My day-to-day right now is...
-Helping businesses succeed through [Goodlawyer](https://goodlawyer.ca) as a Full-Stack Developer.
+Changing customer experiences at [Showpass](https://showpass.com) as a Frontend Developer
 
 <h2></h2>
 
@@ -23,6 +23,7 @@ Helping businesses succeed through [Goodlawyer](https://goodlawyer.ca) as a Full
 <h2></h2>
 
 ### 🏛 And In the past I've...
+ - [Goodlawyer](https://goodlawyer.ca) TBD
  - Re-architected a WebSocket system inside a React app for much better Real-Time Location System performance and DX via [Connectus Global](https://comectusglobal.com)
  - Worked on a COVID health screening checkup platform for daycares & gyms via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
  - Worked on a small "SkipTheDishes" inspired SMS-based app for food trucks, concessions, golf houses via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
