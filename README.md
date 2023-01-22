@@ -23,7 +23,7 @@ Changing customer experiences at [Showpass](https://showpass.com) as a Frontend 
 <h2></h2>
 
 ### 🏛 And In the past I've...
- - [Goodlawyer](https://goodlawyer.ca) TBD
+ - Helped steer the technical direction at a place called [Goodlawyer](https://goodlawyer.ca) to better serve lawyers and clients.
  - Re-architected a WebSocket system inside a React app for much better Real-Time Location System performance and DX via [Connectus Global](https://comectusglobal.com)
  - Worked on a COVID health screening checkup platform for daycares & gyms via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
  - Worked on a small "SkipTheDishes" inspired SMS-based app for food trucks, concessions, golf houses via [HomeHow Mortgage](https://www.linkedin.com/company/homehow/about/).
