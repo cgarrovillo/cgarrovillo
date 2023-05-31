@@ -9,7 +9,7 @@ I'm Christian, a full-stack developer, TypeScript advocate, ReactJS fan, tech-gu
 <h2></h2>
 
 ### ☕️ My day-to-day right now is...
-Changing customer experiences at [Showpass](https://showpass.com) as a Frontend Developer
+Helping others experience life through [Showpass](https://showpass.com) as a Frontend Developer
 
 <h2></h2>
 
